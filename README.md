@@ -11,7 +11,7 @@ I'm an electrical engineering graduate with 7 years of experience in risk assess
 - 🧁 Fun fact: I love baking pastry for family and friends!
 
 ## Get in Touch 📫
-- LinkedIn: [Connect with me](https://www.linkedin.com/in/vinicius-acruz/)
+- LinkedIn: [Connect with me](www.linkedin.com/in/cruzvinicius1)
 - Email: [Drop me a message](mailto:vinicius.a.cruz1@gmail.com)
 - Portfolio: [Explore my projects](https://vinicius-acruz.github.io)
 
